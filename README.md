@@ -1,3 +1,6 @@
+FORKED from https://github.com/habuild/hassio-addons
+ONLY MODIFICATON IS INCREASED INTEVAL OF THE CRONTAB TO RUN EVERY MINUTE INSTEAD OF EVERY 5 MINUTES
+
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
 # Repository add-on by Habuild
