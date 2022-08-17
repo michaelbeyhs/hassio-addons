@@ -1,3 +1,5 @@
+# FORKED from https://github.com/habuild/hassio-addons ONLY MODIFICATON IS INCREASED INTEVAL OF THE CRONTAB TO RUN EVERY MINUTE INSTEAD OF EVERY 5 MINUTES
+
 # SBFspot addon for HAOS
 
 ![Version](https://img.shields.io/badge/dynamic/yaml?label=Version&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhabuild%2Fhassio-addons%2Fmain%2Fhaos-sbfspot%2Fconfig.yaml)
