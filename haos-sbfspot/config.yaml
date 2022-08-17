@@ -1,9 +1,9 @@
 ---
 name: HAOS-SBFspot
-version: 2022.8.3
+version: 2022.8.3.1
 slug: haos-sbfspot
-description: Manage SBFspot with a simple interface
-url: "https://github.com/habuild/hassio-addons/tree/main/haos-sbfspot"
+description: Manage SBFspot with a simple interface,
+url: "https://github.com/michaelbeyhs/hassio-addons/tree/main/haos-sbfspot"
 stage: experimental
 arch:
   - armhf
